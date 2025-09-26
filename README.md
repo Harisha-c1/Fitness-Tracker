@@ -34,7 +34,7 @@ The project follows a **microservices architecture**:
 
 ## Tech Stack
 
-- **Backend:** Spring Boot, Spring WebFlux, Spring Data MongoDB, Spring AMQP  Spring Data MySQL
+- **Backend:** Spring Boot, Spring WebFlux, Spring Data MongoDB, Spring AMQP, Spring Data MySQL
 - **Frontend:** React, Material UI, Framer Motion (animations)  
 - **Database:** MongoDB,MySQL
 - **Messaging:** RabbitMQ  
