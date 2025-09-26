@@ -1,6 +1,6 @@
 # Fitness App
 
-A microservices-based fitness application built with **Spring Boot**, **MongoDB**, and **React**. The app allows users to track activities, set fitness goals, receive AI-based recommendations, and view their stats on a dashboard. The project follows real-world best practices, including microservices architecture, service discovery, asynchronous messaging, and API communication.  
+A microservices-based fitness application built with **Spring Boot** and **React**. The app allows users to track activities, set fitness goals, receive AI-based recommendations, and view their stats on a dashboard. The project follows real-world best practices, including microservices architecture, service discovery, asynchronous messaging, and API communication.  
 
 ---
 
